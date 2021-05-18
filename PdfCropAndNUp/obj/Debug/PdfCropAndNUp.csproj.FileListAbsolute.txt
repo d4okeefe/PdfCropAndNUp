@@ -1,0 +1,17 @@
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\bin\Debug\PdfCropAndNUp.exe.config
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\bin\Debug\PdfCropAndNUp.exe.manifest
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\bin\Debug\PdfCropAndNUp.application
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\bin\Debug\PdfCropAndNUp.exe
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\bin\Debug\PdfCropAndNUp.pdb
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\bin\Debug\itextsharp.dll
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\bin\Debug\itextsharp.xml
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\obj\Debug\Interop.Acrobat.dll
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\obj\Debug\PdfCropAndNUp.csproj.ResolveComReference.cache
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\obj\Debug\PdfCropAndNUp.TrustInfo.xml
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\obj\Debug\PdfCropAndNUp.exe.manifest
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\obj\Debug\PdfCropAndNUp.application
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\obj\Debug\PdfCropAndNUp.exe
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\obj\Debug\PdfCropAndNUp.pdb
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\obj\Debug\PdfCropAndNUp.csprojAssemblyReference.cache
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\obj\Debug\PdfCropAndNUp.csproj.CopyComplete
+C:\VisualStudioApps2\PdfCropAndNUp\PdfCropAndNUp\obj\Debug\PdfCropAndNUp.csproj.CoreCompileInputs.cache
